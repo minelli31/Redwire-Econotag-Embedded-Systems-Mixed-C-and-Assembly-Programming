@@ -1,6 +1,6 @@
-### Econotag ###
+# Econotag #
 
-#Redwire Econotag - mc13224v dev. board#
+### Redwire Econotag - mc13224v dev. board ###
 
 
 MC13224 ARM7 802.15.4 SoC dev. kit with on-board JTAG
