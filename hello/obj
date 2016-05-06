@@ -1,0 +1,31 @@
+
+hello.o:     formato del fichero elf32-little
+
+SYMBOL TABLE:
+00000000 l    d  .text	00000000 .text
+00000000 l    d  .data	00000000 .data
+00000000 l    d  .bss	00000000 .bss
+00000000 l       .text	00000000 LED_RED_MASK
+00000004 l       .text	00000000 LED_GREEN_MASK
+00000008 l       .text	00000000 S2_S
+0000000c l       .text	00000000 S2_E
+00000010 l       .text	00000000 S3_S
+00000014 l       .text	00000000 S3_E
+00080000 l       *ABS*	00000000 DELAY
+00000050 l       .text	00000000 gpio_init
+00000000 l       .text	00000000 $d
+00000018 l       .text	00000000 $a
+00000024 l       .text	00000000 loop
+00000070 l       .text	00000000 test_buttons
+00000044 l     F .text	00000000 pause
+000000a4 l       .text	00000000 $d
+00000000 l    d  .stab	00000000 .stab
+00000000 l    d  .stabstr	00000000 .stabstr
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000018 g     F .text	00000000 _start
+00000000         *UND*	00000000 GPIO_DATA_SET1
+00000000         *UND*	00000000 GPIO_DATA_RESET1
+00000000         *UND*	00000000 GPIO_PAD_DIR1
+00000000         *UND*	00000000 GPIO_DATA0
+
+
