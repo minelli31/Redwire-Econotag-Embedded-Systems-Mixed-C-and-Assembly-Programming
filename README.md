@@ -39,12 +39,16 @@ This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unpor
 Use of this design should be attributed to: Redwire, LLC.
 
 Shipment from Redwire available worldwide.
+
 **Open Source**
  [Open Source Hardware Definition v1.0](http://www.inmojo.com/licenses/#oshw_v1.0)
+
  **Hardware**
  [Creative Commons - Attribution - ShareAlike 3.0](http://www.inmojo.com/licenses/#cc_a_sa_3.0)
+
  **Docs & Files**
  [Creative Commons - Attribution - ShareAlike 3.0](http://www.inmojo.com/licenses/#cc_a_sa_3.0)
+ 
  **Software**
  [Simplified BSD License](http://www.inmojo.com/licenses/#simpbsd)
 
